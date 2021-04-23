@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 import java.lang.reflect.UndeclaredThrowableException;
-
+//代理类反编译
 public final class $Proxy0 extends Proxy implements Subject {
     private static Method m1;
     private static Method m0;

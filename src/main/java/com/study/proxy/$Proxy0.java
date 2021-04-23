@@ -35,7 +35,15 @@ public final class $Proxy0 extends Proxy implements Subject {
     public $Proxy0(InvocationHandler invocationhandler) {
         super(invocationhandler);
     }
-
+/**
+ *@Description:
+ *
+ * @param obj
+ * @return boolean
+ * @throws
+ * @author XiongWei
+ * @date 2021/4/23 15:44
+*/
     @Override
     public final boolean equals(Object obj) {
         try {

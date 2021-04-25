@@ -15,6 +15,9 @@ public class Test1 {
      * @author XiongWei
      * @date 2021/4/25 17:30
     */
+
+
+    
     public static void main(String[] args) {
         int a = 0;//00000000
         char b= '0';
